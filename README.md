@@ -10,7 +10,7 @@ npm install
 Run:
 to run the tests run the following command
 
-npm run test
+protractor Configuration.js
 
 Report:
 you can see report under report folder auto generated after first execution of test.
