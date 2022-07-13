@@ -7,6 +7,8 @@ to install the module run the following command
 
 npm install 
 
+webdriver-manager update
+
 Run:
 to run the tests run the following command
 
