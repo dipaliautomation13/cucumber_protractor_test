@@ -1,0 +1,30 @@
+{
+  "name": "cucumbersample",
+  "version": "1.0.0",
+  "description": "Sample Cucumber Protractor project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipali Verma",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cucumber": "4.0.4",
+    "@types/node": "12.12.2",
+    "chai": "^4.2.0",
+    "cucumber": "6.0.5",
+    "cucumber-pretty": "^1.5.0",
+    "cucumberjs-allure-reporter": "^1.0.3",
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-reporters": "2.2.1",
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "6.2.1",
+    "protractor-html-reporter": "^1.3.2",
+    "protractor-screenshot-utils": "^1.0.5"
+  },
+  "devDependencies": {
+    "cucumber-html-report": "^0.6.5",
+    "cucumber-html-reporter": "^5.5.0",
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.1"
+  }
+}
